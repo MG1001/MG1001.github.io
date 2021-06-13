@@ -2,9 +2,9 @@
 title: MG1001
 SEOTitle: MG1001的博客 | It's me.
 header-img: img/home-bg-he.png
-email: MG1001@qq.com
+email: spudli.mee@gmail.com
 description: "MG1001的博客"
-keyword: "MG1001, MG1001的博客, rainbom sea, MG1001, Python blog"
+keyword: "MG1001, MG1001的博客, only me, MG1001, Python blog"
 url: "http://MG1001.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/MG1001/MG1001.github.io.git" #code repository | 代码仓库
@@ -12,7 +12,7 @@ github_repo: "https://github.com/MG1001/MG1001.github.io.git" #code repository |
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "我不想努力了!"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
